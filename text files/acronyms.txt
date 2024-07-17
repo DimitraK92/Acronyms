@@ -1,0 +1,5 @@
+IOT - Internet Of Things
+VPN - Virtual Private Network
+CPU - Central Prossecing Unit
+GPU - Graphics Prossecing Unit
+PSU - Power Supply Unit
